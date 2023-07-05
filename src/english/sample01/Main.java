@@ -5,7 +5,7 @@ public class Main {
 		//main
 		SampleWindow sw = new SampleWindow("english");
 		sw.setVisible(true);
-		
+		//github
 	}
 
 }
