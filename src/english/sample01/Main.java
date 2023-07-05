@@ -6,6 +6,7 @@ public class Main {
 		SampleWindow sw = new SampleWindow("english");
 		sw.setVisible(true);
 		//github
+		//return
 	}
 
 }
