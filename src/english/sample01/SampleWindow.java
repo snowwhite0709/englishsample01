@@ -17,6 +17,7 @@ public class SampleWindow extends JFrame implements ActionListener{
 	
 		super(title);
 		
+		//aaa
 		
 		
 		
