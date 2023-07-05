@@ -21,6 +21,7 @@ public class SampleWindow extends JFrame implements ActionListener{
 		
 		//bbb
 		
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(600,800);
 		Container contPane = getContentPane();
